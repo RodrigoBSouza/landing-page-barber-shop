@@ -1,4 +1,4 @@
-# Portifólio - Rodrigo Souza
+# Landing Page - Barber Shop
 
 Landing Page desenvolvida para praticar meus conhecimentos em Bootstrap, é um projeto básico mas agregou conhecimento.
 
